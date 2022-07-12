@@ -31,9 +31,11 @@ function myComponent() {
     )
 }
 
+```
 > that ``myComponent()`` should be ``MyComponent()`` that's what we call camel case
 
-3. What's wrong with this code?
+8. What's wrong with this code?
+9. 
 ```
 function Header() {
     return (
